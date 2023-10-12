@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+header ,footer{
+	 background-color: rgb(234, 18, 18);
+	 color: white;
+	 padding: 20px;
+	 width: 100%;
+	
+}
+aside ul li{
+	list-style: none;
+	margin-top: 13px;
+	border-bottom: 2px solid #fff;
+}
+section aside h3{
+	    padding: 20px;
+}
+section aside{
+	width: 15%;
+	float: left;
+	background-color: rgb(32, 152, 32);
+	padding: 20px;
+	margin-right: 10px;
+		
+}
+section main{
+	
+	width: 85%;
+	text-align: justify;
+	padding:20px;
+	margin-left: 10px;
+}
+main h3{
+	color: blue;
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
